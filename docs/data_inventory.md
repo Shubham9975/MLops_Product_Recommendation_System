@@ -102,6 +102,18 @@
 
 ## olist_sellers_dataset.csv
 
+# Rows: 3095
+# Columns: 4
+
+# Column Names:
+1. seller_id : seller unique identifier
+2. seller_zip_code_prefix : first 5 digits of seller zip code
+3. seller_city : seller city name
+4. seller_state : seller state
+...
+
+## product_category_name_translation.csv
+
 # Rows: 71
 # Columns: 2
 
