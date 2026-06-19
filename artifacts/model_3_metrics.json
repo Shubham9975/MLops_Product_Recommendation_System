@@ -1,0 +1,6 @@
+{
+    "model_type": "content_based",
+    "products": 32951,
+    "features": 78,
+    "neighbors": 10
+}
