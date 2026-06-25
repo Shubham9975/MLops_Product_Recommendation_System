@@ -1,0 +1,22 @@
+{
+    "model_type": "lambdamart",
+    "training_rows": 193744,
+    "validation_rows": 48370,
+    "customers_train": 41290,
+    "customers_valid": 10323,
+    "features": [
+        "customer_total_spend",
+        "customer_purchase_count",
+        "product_weight_g",
+        "product_length_cm",
+        "product_height_cm",
+        "product_width_cm",
+        "popularity_score",
+        "is_favorite_category_match",
+        "customer_idx",
+        "product_idx",
+        "category_idx",
+        "favorite_category_idx"
+    ],
+    "best_iteration": 300
+}

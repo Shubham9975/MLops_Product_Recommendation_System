@@ -1,0 +1,6 @@
+{
+    "model_type": "hybrid",
+    "similarity_weight": 0.7,
+    "popularity_weight": 0.3,
+    "top_k": 10
+}
