@@ -1,13 +1,23 @@
+# Python
 __pycache__/
-*.pyc
+*.py[cod]
+*$py.class
+
+# Pytest
+.pytest_cache/
 
 .venv/
 env/
 venv/
 
+# Jupyter
 .ipynb_checkpoints/
 
 mlruns/
 
-
+# OS
 .DS_Store
+Thumbs.db
+
+# VSCode
+.vscode/
