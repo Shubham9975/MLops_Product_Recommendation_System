@@ -1,6 +1,6 @@
 {
     "model_name": "LambdaMART_Final",
-    "best_iteration": 1360,
+    "best_iteration": 1332,
     "negative_sampling": {
         "hard": 2,
         "random": 2
@@ -16,13 +16,13 @@
         "is_favorite_category_match"
     ],
     "feature_importance": {
-        "customer_total_spend": 23384,
-        "product_weight_g": 14656,
-        "popularity_score": 10611,
-        "product_height_cm": 9996,
-        "product_length_cm": 9949,
-        "product_width_cm": 9159,
-        "customer_purchase_count": 5983,
-        "is_favorite_category_match": 509
+        "customer_total_spend": 23719,
+        "product_weight_g": 14125,
+        "popularity_score": 10274,
+        "product_height_cm": 9643,
+        "product_length_cm": 9591,
+        "product_width_cm": 8736,
+        "customer_purchase_count": 6010,
+        "is_favorite_category_match": 461
     }
 }

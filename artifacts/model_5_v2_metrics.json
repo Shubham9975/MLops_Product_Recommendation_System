@@ -14,7 +14,7 @@
         "popularity_score",
         "is_favorite_category_match"
     ],
-    "best_iteration": 1360,
+    "best_iteration": 1332,
     "training_rows": 242593,
     "validation_rows": 60436
 }
